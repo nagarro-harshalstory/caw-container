@@ -13,7 +13,7 @@ module.exports = merge(common, {
     mode: 'production',
 
     output: {
-        publicPath: "https://nagarro-harshalstory.github.io/caw-container",
+        publicPath: "https://nagarro-harshalstory.github.io/caw-container/",
     },
 
     plugins: [
